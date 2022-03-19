@@ -1,9 +1,25 @@
-#growText {
+h1 {
     text-align: center;
+    font-size: 50px;
 }
 
-.Div {
-    border: 5px outset black;
-    background-color: lightgreen;
+#growText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+#Div {
+    margin: 0;
+    position: absolute;
+    width: 300px;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%);
+    transform: translate(-50%);
+    border: 5px solid #FFFF00;
+    padding: 10px;
+    background-color: #90ee90;
     text-align: center;
 }
