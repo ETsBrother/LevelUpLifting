@@ -1,3 +1,3 @@
 console.log('we did it');
 alert('do your hw');
-alert('no this isnt on the master branch');
+alert('it was on the master branch :pensive:');
